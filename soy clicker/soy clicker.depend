@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571083547 source:d:\projects\c++\soy clicker\main.cpp
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	<tchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+
+1569184633 source:d:\projects\c++\soy clicker\icon.rc
+
